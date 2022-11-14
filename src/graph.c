@@ -3,10 +3,10 @@
 int main(void)
 {
   int i,h,height[4];
-   
+
   for(i=0;i<4;i++)
   {
-    printf("身長（整数で入力）：");
+    printf("身長（整数で入力）:");
     scanf("%d",&height[i]);
   }
  
